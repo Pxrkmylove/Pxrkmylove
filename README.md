@@ -64,7 +64,7 @@
 <h2 align="center">☎️ Contact me</h2>
     <p align="center">
       <br/>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
+      <a href="https://www.facebook.com/park.premsri.7" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
         <a href="https://instagram.com/pxrk.ps" target="blank"><img align="center"
