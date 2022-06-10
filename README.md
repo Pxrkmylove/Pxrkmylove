@@ -58,7 +58,12 @@
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="sass" width="40"
-      height="40" /> </a> </p>
+      height="40" /> </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://camo.githubusercontent.com/ed32cb23d5dd6d54795e75113491e0c276bd0cc51ba8d4421dd1a67ec633c2af/687474703a2f2f706e67696d672e636f6d2f75706c6f6164732f7068702f7068705f504e4732372e706e67" alt="sass" width="40"
+      height="40" /> </a> 
+
+</p>
 
 
 <h2 align="center">☎️ Contact me</h2>
