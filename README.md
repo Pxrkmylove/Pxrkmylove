@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://cdn.discordapp.com/attachments/923814718622269451/984892485224517722/852.gif">
     <img src="https://cdn.discordapp.com/attachments/923814718622269451/984397059190849546/final.png" alt="Logo" width="300" height="300">
   </a>
 
