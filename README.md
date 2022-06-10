@@ -45,22 +45,29 @@
 * 💰 Server Fivem: XERO BOXING
 * 🛒 Shop Script: HASHTAG DEV
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages :</h3>
 <p align="left">    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"
+      src="https://cdn.discordapp.com/attachments/923814718622269451/984894588911251516/lua.png"
       alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="photoshop"
+      src="https://cdn.discordapp.com/attachments/923814718622269451/984894857707421806/html.png" alt="photoshop"
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="python"
+      src="https://cdn.discordapp.com/attachments/923814718622269451/984894999458111508/css.png" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="sass" width="40"
+      src="https://cdn.discordapp.com/attachments/923814718622269451/984895211710853131/javascript.png"
+      alt="react" width="40" height="40" /> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.discordapp.com/attachments/923814718622269451/984895966161305690/java_1.png"
+      alt="react" width="40" height="40" /> </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.discordapp.com/attachments/923814718622269451/984895588862681149/nodejs.png" alt="sass" width="40"
       height="40" /> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://camo.githubusercontent.com/ed32cb23d5dd6d54795e75113491e0c276bd0cc51ba8d4421dd1a67ec633c2af/687474703a2f2f706e67696d672e636f6d2f75706c6f6164732f7068702f7068705f504e4732372e706e67" alt="sass" width="40"
+      src="https://cdn.discordapp.com/attachments/923814718622269451/984895758052499546/php.png" alt="sass" width="40"
+      height="40" /> </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.discordapp.com/attachments/923814718622269451/984896325361479710/python.png" alt="sass" width="40"
       height="40" /> </a> 
 
 </p>
