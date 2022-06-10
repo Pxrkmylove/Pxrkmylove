@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://cdn.discordapp.com/attachments/923814718622269451/984892485224517722/852.gif">
-    <img src="https://cdn.discordapp.com/attachments/923814718622269451/984397059190849546/final.png" alt="Logo" width="300" height="300">
+    <img src="https://cdn.discordapp.com/attachments/923814718622269451/984893946234818630/programmer.png" alt="Logo" width="300" height="300">
   </a>
 
   <h1 align="center">🧠 Use your brain don't copy</h1>
