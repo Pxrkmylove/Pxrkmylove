@@ -42,7 +42,6 @@
 
 * 😀 Name: Prem Premsri
 * 🎉 Nickname: Park
-* 💰 Server Fivem: XERO BOXING
 * 🛒 Shop Script: HASHTAG DEV
 
 <h3 align="left">Languages :</h3>
