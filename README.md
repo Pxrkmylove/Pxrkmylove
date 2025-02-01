@@ -43,6 +43,7 @@
 * 😀 Name: Prem Premsri
 * 🎉 Nickname: Park
 * 🛒 Shop Script: HASHTAG DEV
+* 👨‍🎓 University: Mahidol University International College (ICCS)
 
 <h3 align="left">Languages :</h3>
 <p align="left">    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
