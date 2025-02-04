@@ -81,10 +81,10 @@
       <br/>
         <a href="https://instagram.com/pxrk.ps" target="blank"><img align="center"
          src="https://img2.pic.in.th/pic/instagram-1.png"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="100"/></a>
          <a href="https://discord.gg/qUGYeZj2JG" target="blank"><img align="center"
            src="https://img2.pic.in.th/pic/discord-1bfcc838f0887244e.png"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="100"/></a>
            <a href="https://www.youtube.com/@gradixnt8476" target="blank"><img align="center"
            src="https://img2.pic.in.th/pic/youtube-28a0e316531983429.png"
          alt="azzar" height="100"/></a>
