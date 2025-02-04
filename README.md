@@ -23,8 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://cdn.discordapp.com/attachments/923814718622269451/984892485224517722/852.gif">
-    <img src="https://cdn.discordapp.com/attachments/923814718622269451/984893946234818630/programmer.png" alt="Logo" width="300" height="300">
+  <a href="https://img2.pic.in.th/pic/852.gif">
+    <img src="https://img5.pic.in.th/file/secure-sv1/programmer.png" alt="Logo" width="300" height="300">
   </a>
 
   <h1 align="center">🧠 Use your brain don't copy</h1>
@@ -36,7 +36,7 @@
 <!-- TABLE OF CONTENTS -->
 
 
-  <h3 align="center">💻 I'm a web developer and fivem developer</h3>
+  <h3 align="center">💻 I'm a web developer and game developer</h3>
 
 <!-- ABOUT THE PROJECT -->
 
