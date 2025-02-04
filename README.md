@@ -48,26 +48,29 @@
 <h3 align="left">Languages :</h3>
 <p align="left">    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.discordapp.com/attachments/923814718622269451/984894588911251516/lua.png"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://cdn.discordapp.com/attachments/923814718622269451/984894588911251516/lua.png" target="_blank"
+      src="https://img5.pic.in.th/file/secure-sv1/lua6149442805ae1aa5.png"
+      alt="pandas" width="40" height="40" /> </a> <a href="https://img5.pic.in.th/file/secure-sv1/lua6149442805ae1aa5.png" target="_blank"
     rel="noreferrer"> <img
-      src="https://cdn.discordapp.com/attachments/923814718622269451/984894857707421806/html.png" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://cdn.discordapp.com/attachments/923814718622269451/984894857707421806/html.png" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.discordapp.com/attachments/923814718622269451/984894999458111508/css.png" alt="python"
-      width="40" height="40" /> </a> <a href="https://cdn.discordapp.com/attachments/923814718622269451/984894999458111508/css.png" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.discordapp.com/attachments/923814718622269451/984895211710853131/javascript.png"
+      src="https://img5.pic.in.th/file/secure-sv1/html.png" alt="photoshop"
+      width="40" height="40" /> </a> <a href="https://img5.pic.in.th/file/secure-sv1/html.png" target="_blank" rel="noreferrer"> <img
+      src="https://img5.pic.in.th/file/secure-sv1/css8f6d2adb56478fb1.png" alt="python"
+      width="40" height="40" /> </a> <a href="https://img5.pic.in.th/file/secure-sv1/css8f6d2adb56478fb1.png" target="_blank" rel="noreferrer"> <img
+      src="https://img5.pic.in.th/file/secure-sv1/javascript.png"
       alt="react" width="40" height="40" /> </a> 
-  <a href="https://cdn.discordapp.com/attachments/923814718622269451/984895211710853131/javascript.png" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.discordapp.com/attachments/923814718622269451/984895966161305690/java_1.png"
+  <a href="https://img5.pic.in.th/file/secure-sv1/javascript.png" target="_blank" rel="noreferrer"> <img
+      src="https://img2.pic.in.th/pic/java_1.png"
       alt="react" width="40" height="40" /> </a>
-  <a href="https://cdn.discordapp.com/attachments/923814718622269451/984895966161305690/java_1.png" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.discordapp.com/attachments/923814718622269451/984895588862681149/nodejs.png" alt="sass" width="40"
+  <a href="https://img2.pic.in.th/pic/java_1.png" target="_blank" rel="noreferrer"> <img
+      src="https://img5.pic.in.th/file/secure-sv1/nodejs.png" alt="sass" width="40"
       height="40" /> </a> 
-  <a href="https://cdn.discordapp.com/attachments/923814718622269451/984895588862681149/nodejs.png" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.discordapp.com/attachments/923814718622269451/984895758052499546/php.png" alt="sass" width="40"
+  <a href="https://img5.pic.in.th/file/secure-sv1/nodejs.png" target="_blank" rel="noreferrer"> <img
+      src="https://img5.pic.in.th/file/secure-sv1/php9029bae877e7d066.png" alt="sass" width="40"
       height="40" /> </a> 
-    <a href="https://cdn.discordapp.com/attachments/923814718622269451/984895758052499546/php.png" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.discordapp.com/attachments/923814718622269451/984896325361479710/python.png" alt="sass" width="40"
+    <a href="https://img5.pic.in.th/file/secure-sv1/php9029bae877e7d066.png" target="_blank" rel="noreferrer"> <img
+      src="https://img2.pic.in.th/pic/python.png" alt="sass" width="40"
+      height="40" /> </a> 
+    <a href="https://img2.pic.in.th/pic/typescript.png" target="_blank" rel="noreferrer"> <img
+      src="https://img2.pic.in.th/pic/typescript.png" alt="sass" width="40"
       height="40" /> </a> 
 
 </p>
@@ -76,16 +79,13 @@
 <h2 align="center">☎️ Contact me</h2>
     <p align="center">
       <br/>
-      <a href="https://www.facebook.com/park.premsri.7" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
         <a href="https://instagram.com/pxrk.ps" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         src="https://img2.pic.in.th/pic/instagram-1.png"
          alt="azzar" height="30"/></a>
-         <a href="https://discord.gg/QU3z8wNXE9" target="blank"><img align="center"
-           src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465"
+         <a href="https://discord.gg/qUGYeZj2JG" target="blank"><img align="center"
+           src="https://img2.pic.in.th/pic/discord-1bfcc838f0887244e.png"
          alt="azzar" height="30"/></a>
-           <a href="https://www.youtube.com/channel/UCgVdkcX6YOMdySmuU80KAIw" target="blank"><img align="center"
-           src="https://cdn.discordapp.com/attachments/923814718622269451/984539238890627123/YOUTUBE.png"
+           <a href="https://www.youtube.com/@gradixnt8476" target="blank"><img align="center"
+           src="https://img2.pic.in.th/pic/youtube-28a0e316531983429.png"
          alt="azzar" height="100"/></a>
   
